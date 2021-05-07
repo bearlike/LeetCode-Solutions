@@ -8,10 +8,10 @@
 I practice Programming, Data Structures and Algorithms in this repository. This repository exists for future references. Feel free to raise an [issue](https://github.com/bearlike/Practising-DSA/issues/new/choose) for additional help or fixes if required. If you're looking to learn how Programming and Algorithms work and not just surf around, [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) would be a more suitable place to start. Best of luck to you!
 
 ## Index
-1. [Understanding Data Structures](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/How_Data_Structures_Work.ipynb)
+1. [Understanding Data Structures](https://thekrishna.in/Practising-DSA/How_Data_Structures_Work.html)
 2. **Solved Problems**
-    1. [Arrays and Strings](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/Solving_Problems/Arrays_and_Strings.ipynb)
-    2. [Trees and Graphs](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/Solving_Problems/Trees_and_Graphs.ipynb)
+    1. [Arrays and Strings](https://thekrishna.in/Practising-DSA/Solved_Problems/Arrays_and_Strings.html)
+    2. [Trees and Graphs](https://thekrishna.in/Practising-DSA/Solved_Problems/Trees_and_Graphs.html)
 
 ## Prerequisites
 The notebooks rely on `graphviz` libraries to help visualize data structures. The repository contains `apt.txt` and `requirements.txt` makes it possible to install packages from the ubuntu apt repository and Pip Package Manager into Binder.
