@@ -9,7 +9,9 @@ I practice Programming, Data Structures and Algorithms in this repository. This 
 
 ## Index
 1. [Understanding Data Structures](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/How_Data_Structures_Work.ipynb)
-2. [Solved Problems](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/Solving_Problems.ipynb)
+2. **Solved Problems**
+    2.1 [Arrays and Strings](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/Solving_Problems/Arrays_and_Strings.ipynb)
+    2.2 [Trees and Graphs](https://nbviewer.jupyter.org/github/bearlike/Practising-DSA/blob/current/Solving_Problems/Trees_and_Graphs.ipynb)
 
 ## Problems Solved
 1. Sum of Root To Leaf Binary Numbers
